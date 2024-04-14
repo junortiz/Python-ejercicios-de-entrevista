@@ -19,3 +19,20 @@ Escribir una función `sum()` y una función `multip()` que sumen y multipliquen
 
 ## Ejercicio 5: Invirtiendo la Cadena 🔄
 Definir una función `inversa()` que calcule la inversión de una cadena. Por ejemplo, la cadena "estoy probando" debería devolver la cadena "odnaborp yotse".
+
+## Ejercicio 6: ¿Es un palíndromo? 🔄
+Definir una función `es_palindromo()` que reconoce palíndromos (es decir, palabras que tienen el mismo aspecto escritas invertidas), ejemplo: `es_palindromo("radar")` tendría que devolver True.
+
+## Ejercicio 7: ¿Hay superposición? ✅
+Definir una función `superposicion()` que tome dos listas y devuelva True si tienen al menos 1 miembro en común o devuelva False de lo contrario. Escribir la función usando el bucle for anidado.
+
+## Ejercicio 8: Generar caracteres multiplicados por n ✨
+Definir una función `generar_n_caracteres()` que tome un entero n y devuelva el caracter multiplicado por n. Por ejemplo: `generar_n_caracteres(5, "x")` debería devolver "xxxxx".
+
+## Ejercicio 9: Histograma 📊
+Definir un histograma `procedimiento()` que tome una lista de números enteros e imprima un histograma en la pantalla. Ejemplo: `procedimiento([4, 9, 7])` debería imprimir lo siguiente:
+```
+****
+*********
+*******
+```
