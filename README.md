@@ -36,3 +36,44 @@ Definir un histograma `procedimiento()` que tome una lista de números enteros e
 *********
 *******
 ```
+
+## Ejercicio 10: 🔄 Combina dos listas en pares usando la función zip
+
+## Ejercicio 11: 🎯 Eliminar duplicados de una lista
+
+## Ejercicio 12: ✅ Verificar si un número es par o impar
+
+## Ejercicio 13: 📅 Determinar si un año es bisiesto, 
+teniendo en cuenta las siguientes reglas:
+Bisiesto: Es divisible por 4 y No divisible por 100
+Bisiesto: Es divisible por 400
+
+## Ejercicio 14: 🔢 Verificar si un número está en el rango de 1 a 10
+
+## Ejercicio 15: 🔠 Verificar si un carácter es vocal o no
+
+## Ejercicio 16: 📈 Calcular máximo de números
+
+## Ejercicio 17: 🔍 Verificar si un carácter está en una cadena
+
+## Ejercicio 18: 🔽 Imprimir los números del 10 al 1 en orden descendente
+
+## Ejercicio 19: ➕ Para un N número, imprimir la suma de todos los números desde 1 hasta N
+
+## Ejercicio 20: ❗ Para un N número, imprimir el factorial de ese número
+
+## Ejercicio 21: 🎲 Genera un número aleatorio entre 1 y 10. 
+Luego, pide al usuario adivinar el número hasta que lo haga correcto
+
+## Ejercicio 22: 🔢 Imprime la tabla de multiplicar 
+de un número ingresado por el usuario
+
+## Ejercicio 23: 🔢 Solicita al usuario ingresar un número y cuenta cuántos dígitos tiene
+
+## Ejercicio 24: 📜 Hacer un menú de opciones que incluya la opción de salir del programa
+
+## Ejercicio 25: 🪙 Simular un lanzamiento de una moneda
+
+## Ejercicio 26: 🔢 Mostrar los números del 1 al 10
+pero reemplazando los múltiplos de 3 por "Fizz" y los múltiplos de 5 por "Buzz"
+
