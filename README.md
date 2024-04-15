@@ -91,3 +91,18 @@ Bisiesto: Es divisible por 400
 
 ## Ejercicio 35: Mostrar los números del 1 al 10, pero reemplazando los múltiplos de 3 por "Fizz" y los múltiplos de 5 por "Buzz" 🔢
 
+## Ejercicio 36: Imprimir los números del 1 al 5 con un ciclo for 🔄
+
+## Ejercicio 37: Sumar los números del 1 al 10 con un ciclo for ➕
+
+## Ejercicio 38: Imprimir los elementos de una lista dada 📋
+
+## Ejercicio 39: Imprimir los caracteres de una cadena usando un ciclo for 🖋️
+
+## Ejercicio 40: Imprimir los números pares del 2 al 10 con un ciclo for 🔄
+
+## Ejercicio 41: Imprimir el cuadrado de los números de una lista 📐
+
+## Ejercicio 42: Imprimir los números del 5 al 1 en orden descendente 🔄
+
+## Ejercicio 43: Crear una función para calcular el área de un círculo 🟢
