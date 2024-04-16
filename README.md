@@ -106,3 +106,21 @@ Bisiesto: Es divisible por 400
 ## Ejercicio 42: Imprimir los números del 5 al 1 en orden descendente 🔄
 
 ## Ejercicio 43: Crear una función para calcular el área de un círculo 🟢
+
+## Ejercicio 44: Titanic 🚢
+
+En este ejercicio, trabajaremos con los datos de los pasajeros del Titanic. Utilizaremos el fichero titanic.csv que contiene información sobre los pasajeros.
+
+### Requisitos 📋
+
+- 1. Generar un DataFrame con los datos del fichero.
+- 2. Mostrar por pantalla las dimensiones del DataFrame, el número de datos - que contiene, los nombres de sus columnas y filas, los tipos de datos de las columnas, las 10 primeras filas y las 10 últimas filas.
+- 3. Mostrar por pantalla los datos del pasajero con identificador 148.
+- 4. Mostrar por pantalla las filas pares del DataFrame.
+- 5. Mostrar por pantalla los nombres de las personas que iban en primera clase ordenados alfabéticamente.
+- 6. Mostrar por pantalla el porcentaje de personas que sobrevivieron y murieron.
+- 7. Mostrar por pantalla el porcentaje de personas que sobrevivieron en cada clase.
+- 8. Eliminar del DataFrame los pasajeros con edad desconocida.
+- 9. Mostrar por pantalla la edad media de las mujeres que viajaban en cada clase.
+- 10. Añadir una nueva columna booleana para ver si el pasajero era menor de edad o no.
+- 11. Mostrar por pantalla el porcentaje de menores y mayores de edad que sobrevivieron en cada clase.
