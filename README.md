@@ -109,7 +109,7 @@ Bisiesto: Es divisible por 400
 
 ## Ejercicio 44: Titanic 🚢
 
-En este ejercicio, trabajaremos con los datos de los pasajeros del Titanic. Utilizaremos el fichero titanic.csv que contiene información sobre los pasajeros.
+En este ejercicio, trabajaremos con los datos de los pasajeros del Titanic. Utilizaremos el fichero [titanic.csv](https://raw.githubusercontent.com/asalber/asalber.github.io/master/python/ejercicios/soluciones/pandas/titanic.csv) que contiene información sobre los pasajeros.
 
 ### Requisitos 📋
 
